@@ -1,12 +1,7 @@
-import Button from "@/components/Button/Button";
+import Button from "@/components/Button/Button"
 
 const App = () => {
-  return (
-    <div>
-      <h1>Hello Design System</h1>
-      <Button>Botão</Button>
-    </div>
-  )
+  return <Button>Botão</Button>
 }
 
-export default App;
+export default App
